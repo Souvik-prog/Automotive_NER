@@ -4,7 +4,7 @@ Fine tune a large language model (LLM) for performing named entity recognition (
 HuggingFace Link of Fine Tuned Model: https://huggingface.co/Souvik2807/Llama-2-7b-Automotive-finetune-NER/tree/main
 
 Dataset Link: https://drive.google.com/drive/folders/1ohFCqEKD_J55KUbpxvbCarvywWkyeZP5?usp=sharing
-Note: Dataset is stored in data/FLAT_RCL.txt
+Note: Dataset is stored in data/FLAT_RCL.txt,
 
 File Description:
   Llama2FT.ipynb: Contains the code for Fine Tuning the Llama2 model
