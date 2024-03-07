@@ -7,7 +7,12 @@ Dataset Link: https://drive.google.com/drive/folders/1ohFCqEKD_J55KUbpxvbCarvywW
 Note: Dataset is stored in data/FLAT_RCL.txt,
 
 File Description:
+  
   Llama2FT.ipynb: Contains the code for Fine Tuning the Llama2 model
+  
   test.py: Run test.py with corresponding input in the console to obtain the output returned by the Fine Tuned Model
+  
+  
   Data_Preprocessing.ipynb: Notebook that contains code to pre-process the held out data used for Fine Tuning Llama2
+  
   model_response.txt: Flan-T5 response after Few Shot Learning
